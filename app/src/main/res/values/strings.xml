@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خواننده صوتی متن</string>
+    <string name="accessibility_service_description">این سرویس روی متن‌های برنامه انتخابی، حباب میکروفون نمایش می‌دهد و متن را با صدا می‌خواند.</string>
+    <string name="search_hint">نام برنامه را تایپ کنید یا از لیست انتخاب کنید</string>
+    <string name="step1">۱) یک برنامه از لیست پایین انتخاب کنید</string>
+    <string name="step2">۲) دسترسی Accessibility را برای این برنامه فعال کنید</string>
+    <string name="btn_open_accessibility">باز کردن تنظیمات Accessibility</string>
+    <string name="current_target">برنامه فعلی انتخاب‌شده: %1$s</string>
+    <string name="no_target">هنوز برنامه‌ای انتخاب نشده</string>
+</resources>
